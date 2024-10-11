@@ -19,17 +19,17 @@
 </div>
 
 ## Here are some projects that I've done:
-* [Sustainability Insights](https://github.com/sralter/sustainability_insights)
+* **[Sustainability Insights](https://github.com/sralter/sustainability_insights)**
   * Python-based project centered on gleaning insights from mining emissions datasets sourced from [Climate TRACE](https://climatetrace.org/)
     * Python tools used: Numpy, Pandas, DuckDB, and Matplotlib
   * A [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis) was created to show which companies are most responsible for the world's mining emissions
   * I wrote an [Executive Summary](https://www.linkedin.com/in/samuel-alter/overlay/1726768921738/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) which explains my workflow and conclusions
-* [ClassiFIRE](https://github.com/sralter/classifire)
+* **[ClassiFIRE](https://github.com/sralter/classifire)**
   * Python- and QGIS-based wildfire prediction model
     * Python tools used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow
   * [Presentation](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177824/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my findings
   * [Executive Summary](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177788/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my work
-* [Happy Customers](https://github.com/sralter/happy_customers)
+* **[Happy Customers](https://github.com/sralter/happy_customers)**
   * Python-based project designed to model customer happiness based on the results of a survey
     * Python tools used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, LightGBM, LazyPredict, Stacking and Voting models
 
