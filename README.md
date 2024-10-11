@@ -7,14 +7,17 @@
 2. 🔄 Pivoted career to focus on what underlies all scientific inquiry: data!
 3. 🧪 I employ a scientific- and data-focused approach to solve problems using data analytics📊
 4. 🐣 ➡ 🦅 I love performing the full insights lifecycle, from research to analysis to modeling to reporting
-5. 🌐 **My focus is on solving geospatial problems** 🌐
+5. 🌐 **My focus is on solving geospatial problems using a mix of open source tools and applications** 🌐
 
 ## Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/110472/sql-file-symbol.svg" title="SQL"  alt="SQL" width="60" height="60"/>&nbsp;
+  <img src="https://logodix.com/logo/673983.png" title="Tableau"  alt="Tableau" width="120" height="60"/>&nbsp;
+  <img src="https://qgis.org/styleguide/visual/qgis-icon64.svg" title="QGIS" alt="QGIS" width="60" height="60"/>&nbsp;
+  <img src="https://www.eagleview.com/wp-content/uploads/2017/03/arcgis-pro.png" title="ArcGISPro" alt="ArcGISPro" width="60" height="60"/>&nbsp;
+  <img src="https://www.postgis.us/presentations/images/postgis-logo_trans.png" title="PostGIS" alt="PostGIS" width="120" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
 ## More about me:
