@@ -54,11 +54,11 @@ As a data professional, I employ the latest data techniques to uncover insights.
   </a>
 </div>
 
-## Cool Gif:
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdnNWxxcGxwcGN6M3NxazJ2bDh5dm9wdXppZnZpMG8zZHA5d29xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bXhiABcqQGT3W/giphy-downsized-large.gif
-
 <!--
 **sralter/sralter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Cool Gif:
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdnNWxxcGxwcGN6M3NxazJ2bDh5dm9wdXppZnZpMG8zZHA5d29xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bXhiABcqQGT3W/giphy-downsized-large.gif
 
 
 <div id="under construction" align="center">
