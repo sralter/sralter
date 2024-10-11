@@ -1,5 +1,4 @@
-![1681226455427](https://github.com/user-attachments/assets/53557569-2934-4dd9-a1e8-e7b7742755cb)
-
+![1681226455427 3](https://github.com/user-attachments/assets/53ecab60-03b4-43db-b693-50319556910c)
 # Hello, my name is Samuel Alter. Welcome to my GitHub!
 
 ## My top-five facts:
@@ -17,8 +16,22 @@
   <img src="https://qgis.org/styleguide/visual/qgis-icon64.svg" title="QGIS" alt="QGIS" width="60" height="60"/>&nbsp;
   <img src="https://3.bp.blogspot.com/-kk809YRlqyo/WSE4an1woBI/AAAAAAAAAS4/bR35EIPN5LIQc8iZ-t3KiGsSNZ3_lGd6wCLcB/s1600/ArcGIS-Pro.png" title="ArcGISPro" alt="ArcGISPro" width="60" height="60"/>&nbsp;
   <img src="https://www.postgis.us/presentations/images/postgis-logo_trans.png" title="PostGIS" alt="PostGIS" width="120" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
+
+## Here are some projects that I've done:
+* [Sustainability Insights](https://github.com/sralter/sustainability_insights)
+  * Python-based project centered on gleaning insights from mining emissions datasets sourced from [Climate TRACE](https://climatetrace.org/)
+    * Python tools used: Numpy, Pandas, DuckDB, and Matplotlib
+  * A [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis) was created to show which companies are most responsible for the world's mining emissions
+  * I wrote an [Executive Summary](https://www.linkedin.com/in/samuel-alter/overlay/1726768921738/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) which explains my workflow and conclusions
+* [ClassiFIRE](https://github.com/sralter/classifire)
+  * Python- and QGIS-based wildfire prediction model
+    * Python tools used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow
+  * [Presentation](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177824/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my findings
+  * [Executive Summary](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177788/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my work
+* [Happy Customers](https://github.com/sralter/happy_customers)
+  * Python-based project designed to model customer happiness based on the results of a survey
+    * Python tools used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, LightGBM, LazyPredict, Stacking and Voting models
 
 ## More about me:
 As a data professional, I employ the latest data techniques to uncover insights. I am skilled in:
@@ -50,6 +63,9 @@ As a data professional, I employ the latest data techniques to uncover insights.
 <div id="under construction" align="center">
   🚧 This readme is under construction! 🚧
 </div>
+
+![1681226455427](https://github.com/user-attachments/assets/53557569-2934-4dd9-a1e8-e7b7742755cb)
+![1681226455427 3](https://github.com/user-attachments/assets/646a41bb-5d17-4a62-a5bf-e23dbb5ee0a6)
 
 
 Here are some ideas to get you started:
