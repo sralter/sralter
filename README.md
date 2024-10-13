@@ -38,7 +38,7 @@
 As a data professional, I employ the latest data techniques to uncover insights. I am skilled in:
 * **Research**: With my science mindset, I know how to bring in external data in to enrich the analysis
 * **Reporting**: My years as a researcher and consultant have taught me how to communicate effectively
-* **Data Manipulation**: Need help preparing the data? I'll utilize Pandas, DuckDB, and SQL queries
+* **Data Manipulation**: Need help preparing the data? I'll utilize Pandas, DuckDB, SQL queries, and Polars
 * **Visualization**: Want some figures? I can use Python (Matplotlib, Seaborn), Tableau, R (ggplot2), or Excel
 * **Business Intelligence Tools**: Did I mention Tableau? Let's talk about how I can build dashboards for you
 * **Python for Data Analysis and Machine Learning**: Scikit-learn, Tensorflow, and Jupyter are my home
