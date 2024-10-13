@@ -16,6 +16,7 @@
   <img src="https://qgis.org/styleguide/visual/qgis-icon64.svg" title="QGIS" alt="QGIS" width="60" height="60"/>&nbsp;
   <img src="https://3.bp.blogspot.com/-kk809YRlqyo/WSE4an1woBI/AAAAAAAAAS4/bR35EIPN5LIQc8iZ-t3KiGsSNZ3_lGd6wCLcB/s1600/ArcGIS-Pro.png" title="ArcGISPro" alt="ArcGISPro" width="60" height="60"/>&nbsp;
   <img src="https://www.postgis.us/presentations/images/postgis-logo_trans.png" title="PostGIS" alt="PostGIS" width="120" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
 ## Here are some projects that I've done:
