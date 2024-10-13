@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
-## Here are some projects that I've done:
+## Some projects that I've done:
 * **[Sustainability Insights](https://github.com/sralter/sustainability_insights)**
   * Python-based project centered on gleaning insights from mining emissions datasets sourced from [Climate TRACE](https://climatetrace.org/)
     * Python tools used: Numpy, Pandas, DuckDB, and Matplotlib
