@@ -6,7 +6,7 @@
 2. 🔄 Pivoted career to focus on what underlies all scientific inquiry: data!
 3. 🧪 I employ a scientific- and data-focused approach to solve problems using data analytics📊
 4. 🐣 ➡ 🦅 I love working on the full insights lifecycle, from research to analysis to modeling to reporting
-5. 🌐 **My focus is on solving geospatial problems using a mix of open source tools and applications** 🌐
+5. 🌐 **My focus is on solving geospatial problems using a mix of open source tools and applications**
 
 ## Languages and Tools:
 <div>
