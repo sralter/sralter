@@ -32,7 +32,7 @@
   * [Presentation](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177824/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my findings
   * [Executive Summary](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177788/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my work
 * **[Potential Talents](https://github.com/sralter/potential_talents)**
-  * Python-based NLP project designed to rank job candidates based on their similarity to particular terms
+  * Python-based NLP project designed to utilize Learning-To-Rank systems to organize job candidates based on their similarity to particular terms
     * Visualization techniques used: histograms, boxplots, bar charts, choropleth map, word cloud
     * Python tools used: Text embedding (Tfidf, Word2Vec, GloVe, fastText, SBERT), Scikit-Learn's Cosine Similarity, RankNet with PyTorch, LambdaRank with LightGBM
 
