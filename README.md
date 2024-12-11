@@ -31,9 +31,10 @@
     * Python tools used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow
   * [Presentation](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177824/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my findings
   * [Executive Summary](https://www.linkedin.com/in/samuel-alter/details/featured/1635523177788/single-media-viewer/?profileId=ACoAABRAg8sBgm6OaYCu2FGf2KtuIkIfdT1tMC8) of my work
-* **[Happy Customers](https://github.com/sralter/happy_customers)**
-  * Python-based project designed to model customer happiness based on the results of a survey
-    * Python tools used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, LightGBM, LazyPredict, Stacking and Voting models
+* **[Potential Talents](https://github.com/sralter/potential_talents)**
+  * Python-based NLP project designed to rank job candidates based on their similarity to particular terms
+    * Visualization techniques used: histograms, boxplots, bar charts, choropleth map, word cloud
+    * Python tools used: Text embedding (Tfidf, Word2Vec, GloVe, fastText, SBERT), Scikit-Learn's Cosine Similarity, RankNet with PyTorch, LambdaRank with LightGBM
 
 ## More about me:
 As a data professional, I employ the latest data techniques to uncover insights. I am skilled in:
