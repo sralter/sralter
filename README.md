@@ -21,7 +21,7 @@
 </div>
 
 ## Some projects that I've done:
-* **[PyMAAP]([https://pypi.com/sralter/pymaap](https://pypi.org/project/pymaap/#description)
+* **[PyMAAP]([https://pypi.com/sralter/pymaap](https://pypi.org/project/pymaap/#description))
   * Code benchmarking and analysis tool
   * Package offers timing decorators and inline performance monitoring hooks
   * Script run from the command line can automatically generate helpful plots and tables so you can analyze the performance of your script(s)
