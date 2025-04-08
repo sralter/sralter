@@ -22,7 +22,7 @@
 
 ## Some projects that I've done:
 * **[PyMAAP](https://pypi.org/project/pymaap/#description)**
-  * Code benchmarking and analysis tool
+  * Code benchmarking and analysis tool available on PyPI
   * Package offers timing decorators and inline performance monitoring hooks
   * Script run from the command line can automatically generate helpful plots and tables so you can analyze the performance of your script(s)
 * **[Sustainability Insights](https://github.com/sralter/sustainability_insights)**
