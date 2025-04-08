@@ -21,6 +21,10 @@
 </div>
 
 ## Some projects that I've done:
+* **[PyMAAP]([https://pypi.com/sralter/pymaap](https://pypi.org/project/pymaap/#description)
+  * Code benchmarking and analysis tool
+  * Package offers timing decorators and inline performance monitoring hooks
+  * Script run from the command line can automatically generate helpful plots and tables so you can analyze the performance of your script(s)
 * **[Sustainability Insights](https://github.com/sralter/sustainability_insights)**
   * Python-based project centered on gleaning insights from mining emissions datasets sourced from [Climate TRACE](https://climatetrace.org/)
     * Python tools used: Numpy, Pandas, DuckDB, and Matplotlib
