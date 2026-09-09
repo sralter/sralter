@@ -3,9 +3,9 @@
 
 ## My top-three facts:
 
-1.👨‍🔬Proud science nerd who in his spare time thinks about how geology🪨, biology🌳, and water💧interact
-2. 🌐I build spatial systems that turn imagery, maps, and large datasets into info about the physical world
-3. 👨‍💻I bring a scientist's mindset to engineering end-to-end software, from raw spatial data to ML models
+1.👨‍🔬Proud science nerd who in his spare time thinks about how geology🪨, biology🌳, and water💧interact  
+2. 🌐I build spatial systems that turn imagery, maps, and large datasets into info about the physical world  
+3. 👨‍💻I bring a scientist's mindset to engineering end-to-end software, from raw spatial data to ML models  
 
 ## More about me:
 
