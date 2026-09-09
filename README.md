@@ -1,12 +1,24 @@
 ![1681226455427 3](https://github.com/user-attachments/assets/53ecab60-03b4-43db-b693-50319556910c)
 # Hello, my name is Samuel Alter. Welcome to my GitHub!
 
-## My top-five facts:
-1. 👨‍🔬 Proud science nerd who spent years thinking about how geology🪨, biology🌳, and water💧 interact
-2. 🔄 Pivoted career to focus on what underlies all scientific inquiry: data!
-3. 🧪 I employ a scientific- and data-focused approach to solve problems using data analytics📊
-4. 🐣 ➡ 🦅 I love working on the full insights lifecycle, from research to analysis to modeling to reporting
-5. 🌐 **My focus is on solving geospatial problems using a mix of open source tools and applications**
+## My top-three facts:
+
+1.👨‍🔬Proud science nerd who in his spare time thinks about how geology🪨, biology🌳, and water💧interact
+2. 🌐I build spatial systems that turn imagery, maps, and large datasets into info about the physical world
+3. 👨‍💻I bring a scientist's mindset to engineering end-to-end software, from raw spatial data to ML models
+
+## More about me:
+
+I’m a spatial systems engineer and geologist by training. I like working across the full spatial data lifecycle: acquiring real-world data, structuring it for efficient analysis, building spatial logic, training models when ML is useful, and turning the result into reliable software. My work sits at the intersection of spatial data systems, remote sensing, software engineering, and machine learning.
+
+Here are some of the things I've done:
+* Architected an end-to-end spatial ML system using PostGIS, computer vision, and production inference to model building demolition risk
+* Built satellite data systems using Sentinel-2, Xarray/Zarr, AWS S3, and PyTorch for spatiotemporal change detection
+* Improved a production spatial-processing workflow by 40× through profiling and redesigning multiprocessing and logging bottlenecks
+* Led production data-pipeline development and technical handoff while mentoring an intern on an applied spatial ML research project
+* Presented my building-demolition research at the 2026 Geospatial World Forum in Amsterdam
+
+I’m particularly interested in systems that use remote sensing, computer vision, and large-scale spatial computation to understand how the built and natural environment changes over time.
 
 ## Languages and Tools:
 <div>
@@ -20,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
-## Some projects that I've done:
+## Some other projects that I've done:
 * **[PyMAAP](https://pypi.org/project/pymaap/#description)**
   * Code benchmarking and analysis tool available on PyPI
   * Package offers timing decorators and inline performance monitoring hooks
@@ -39,20 +51,6 @@
   * Python-based NLP project designed to utilize Learning-To-Rank systems to organize job candidates based on their similarity to particular terms
     * Visualization techniques used: histograms, boxplots, bar charts, choropleth map, word cloud
     * Python tools used: Text embedding (Tfidf, Word2Vec, GloVe, fastText, SBERT), Scikit-Learn's Cosine Similarity, RankNet with PyTorch, LambdaRank with LightGBM
-
-## More about me:
-As a data professional, I employ the latest data techniques to uncover insights. I am skilled in:
-* **Research**: With my science mindset, I know how to bring in external data in to enrich the analysis
-* **Reporting**: My years as a researcher and consultant have taught me how to communicate effectively
-* **Data Manipulation**: Need help preparing the data? I'll utilize Pandas, DuckDB, SQL queries, and Polars
-* **Visualization**: Want some figures? I can use Python (Matplotlib, Seaborn), Tableau, R (ggplot2), or Excel
-* **Business Intelligence Tools**: Did I mention Tableau? Let's talk about how I can build dashboards for you
-* **Python for Data Analysis and Machine Learning**: Scikit-learn, Tensorflow, and Jupyter are my home
-* **Predictive Modeling**: Using Hyperopt and Optuna, I have tuned countless algorithms on varied datasets
-* **Deep Learning**: How about neural networks? I have used Tensorflow to analyze satellite imagery
-* **GIS**: Want to know "where"? I use my geospatial skills in Esri's ArcGIS Pro, QGIS, and PostGIS to solve it
-* **Statistics**: Want to know "why"? I use Python's Statsmodels to figure that out
-* **Natural Language Processing**: I am skilled in NLP and can help you perform text or sentiment analysis
 
 ## You can find me on LinkedIn here:
 </div>
